@@ -1,0 +1,15 @@
+.hide{
+    display: none;
+}
+.show{
+    display: block;
+}
+
+.box{
+    height: 300px;
+    width: 800px;
+    background-color: lightblue;
+    margin: 0 auto;
+    padding: 10px;
+    box-sizing: border-box;
+}
